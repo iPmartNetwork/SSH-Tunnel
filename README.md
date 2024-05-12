@@ -25,7 +25,7 @@
 <p dir="rtl">gateway = سرور آزاد</p>
 <p dir="rtl">precious resource = سرویس مورد نظر</p>
 
-<a dir="rtl"><img src="https://github.com/slayer76/SSH-Tunnel/f110173f-14fa-4680-8a31-9a7c3723f137" alt="remote ssh tunnel" title="Remote SSH Tunnel Concept"></p>
+<a dir="rtl"><img src="https://github.com/iPmartNetwork/SSH-Tunnel/f110173f-14fa-4680-8a31-9a7c3723f137" alt="remote ssh tunnel" title="Remote SSH Tunnel Concept"></p>
 <p></p>
 
 <h4 dir="rtl">توجه داشته باشید که تمام فرمان ها در این آموزش باید با یوزر root اجرا شوند
